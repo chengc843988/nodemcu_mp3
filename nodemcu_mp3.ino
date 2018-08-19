@@ -1,3 +1,7 @@
+// https://github.com/adafruit/RTClib
+// https://github.com/marcoschwartz/LiquidCrystal_I2C
+// https://github.com/earlephilhower/ESP8266Audio
+
 //#include <Arduino.h>
 #ifdef ESP32
 #include <WiFi.h>
